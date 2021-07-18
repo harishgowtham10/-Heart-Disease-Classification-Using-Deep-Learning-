@@ -1,4 +1,4 @@
-# -Heart-Disease-Classification-Using-Deep-Learning-
+# Heart-Disease-Classification-Using-Deep-Learning-
 
 ## DATA SET:
 
